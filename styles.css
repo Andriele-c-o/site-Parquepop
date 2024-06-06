@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+body{
+    background-image: url(37255131-ai-gerado-colorida-passeios-as-a-diversao-parque-gratis-foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
